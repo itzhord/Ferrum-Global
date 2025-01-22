@@ -7,12 +7,12 @@ export default {
 		extend: {
 		  keyframes: {
 			fadeInUp: {
-			  '0%': { opacity: 0, transform: 'translateY(80px)' },
+			  '0%': { opacity: 0, transform: 'translateY(120px)' },
 			  '100%': { opacity: 1, transform: 'translateY(0)' },
 			},
 		  },
 		  animation: {
-			fadeInUp: 'fadeInUp 1.5s ease-out',
+			fadeInUp: 'fadeInUp 1.7s ease-out',
 		  },
 		},
 	  },  
